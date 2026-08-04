@@ -1,9 +1,8 @@
-
-# Hi 👋, I'm Shaik Sameeruddin
-
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Banner"/>
 </p>
+
+# Hi 👋, I'm Shaik Sameeruddin
 
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
 
