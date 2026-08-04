@@ -135,7 +135,13 @@
 > "Without data, you're just another person with an opinion."  
 > — W. Edwards Deming
 
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sameeruddinsk/sameeruddinsk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ⭐ If you like my projects, consider starring them!
 
